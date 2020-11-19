@@ -13,7 +13,7 @@ h1
     text-align: center;
     font-size: 70px;
 	font-family: 'Playfair Display', serif;
-	font-weight: 'Bold 700';
+	font-weight: 700;
 	
 }
 
@@ -23,7 +23,7 @@ h2
     font-size: 50px;
 	text-align: center;
 	font-family: 'Playfair Display', serif;
-	font-weight: 'Medium 500';
+	font-weight: 500;
 }
 
 h3 
@@ -32,7 +32,7 @@ h3
     font-size: 30px;
 	text-align: center;
 	font-family: 'Playfair Display', serif;
-	font-weight: 'Medium 500';
+	font-weight: 500;
 }
 
 section
@@ -48,7 +48,7 @@ p
     font-size: 16px;
     text-align: justify;
 	font-family: 'Proza Libre', sans-serif;
-	font-weight: 'Regular 400';
+	font-weight: 400;
 	color: #333333;
 }
 	
@@ -61,9 +61,11 @@ body
 
 footer
 {
-    padding-left: 20px; 
-    font-size: 25px;
-    font-weight: bold;
+    #padding-left: 20px; 
+    font-size: 40px;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-weight: 500;
 }
 
 iframe[seamless] {
